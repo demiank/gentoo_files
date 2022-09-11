@@ -1,0 +1,7 @@
+gui-wm/sway wallpapers tray swaylock
+gui-apps/waybar network tray libcxx
+
+#media-video/ffmpeg pulseaudio
+#media-sound/pulseaudio -X -alsa -asyncns -gtk -alsa-plugin -daemon -dbus -ipv6 -orc -ssl -udev -webrtc-aec
+media-gfx/imv svg
+gui-apps/swaybg gdk-pixbuf

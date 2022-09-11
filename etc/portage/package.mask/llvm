@@ -1,0 +1,12 @@
+=sys-devel/llvm-15.0.0:15::clang-musl
+=sys-devel/clang-15.0.0
+=sys-devel/llvm-common-15.0.0
+=sys-devel/clang-runtime-15.0.0
+=sys-devel/lld-15.0.0
+=sys-libs/libcxx-15.0.0
+=sys-libs/libcxxabi-15.0.0
+=sys-libs/compiler-rt-15.0.0
+=sys-libs/compiler-rt-sanitizers-15.0.0
+=sys-libs/llvm-libunwind-15.0.0
+=sys-libs/libomp-15.0.0
+=sys-libs/polly-15.0.0:15::clang-musl

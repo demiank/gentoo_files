@@ -1,0 +1,4 @@
+media-libs/libpng apng
+media-libs/libvpx postproc
+www-client/firefox hwaccel lto
+dev-lang/rust default-libcxx rustfmt system-bootstrap system-llvm

@@ -1,0 +1,16 @@
+app-text/xmlto text
+dev-lang/rust system-bootstrap system-llvm
+media-video/pipewire pipewire-alsa echo-cancel extra gstreamer sound-server
+sys-auth/polkit duktape
+media-libs/gegl cairo
+media-video/vlc qt5
+sys-process/htop llvm-libunwind -unwind lm-sensors
+#media-plugins/alsa-plugins pulseaudio
+app-admin/sudo -sendmail
+sci-libs/fftw -fortran
+dev-libs/glib -elf
+media-tv/v4l-utils qt5 -bpf
+app-arch/p7zip rar
+net-libs/gnutls pkcs11
+sys-apps/debianutils -installkernel
+sys-libs/libxcrypt static-libs

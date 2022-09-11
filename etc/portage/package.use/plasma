@@ -1,0 +1,17 @@
+kde-frameworks/sonnet qml
+app-text/poppler qt5
+media-video/vlc ogg
+kde-frameworks/prison qml
+kde-frameworks/kitemmodels qml
+kde-apps/kio-extras -sftp
+kde-frameworks/kio -kwallet
+kde-frameworks/krunner activities
+kde-apps/kdeutils-meta -webengine 7zip rar
+kde-apps/ark zip
+kde-apps/dolphin activities semantic-desktop
+media-libs/opencv -gtk3
+app-arch/p7zip wxwidgets
+net-p2p/transmission -qt5
+app-crypt/pinentry -gtk
+kde-apps/gwenview share
+sys-auth/polkit -gtk

@@ -1,0 +1,14 @@
+*/*::gentoobr
+*/*::12101111-overlay
+*/*::mv
+*/*::src_prepare-overlay
+*/*::guru
+*/*::duck-overlay
+*/*::4nykey
+*/*::pg_overlay
+*/*::smaeul
+app-office/libreoffice::musl
+app-office/libreoffice::gentoo
+*/*::clang-musl
+net-misc/spice-gtk::gentoo
+dev-libs/jansson::gentoo

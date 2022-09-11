@@ -1,0 +1,7 @@
+sys-fs/zfs kernel-builtin
+# required by kde-frameworks/kfilemetadata-5.89.0::gentoo[pdf]
+# required by kde-frameworks/baloo-5.89.0::gentoo
+# required by kde-plasma/plasma-workspace-5.23.5::gentoo[semantic-desktop]
+# required by kde-plasma/plasma-desktop-5.23.5::gentoo
+# required by plasma-desktop (argument)
+>=app-text/poppler-22.01.0 qt5
