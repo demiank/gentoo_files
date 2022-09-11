@@ -1,0 +1,6 @@
+# Remove files that shall not be installed from this list.
+radeon/CEDAR_me.bin
+radeon/CEDAR_pfp.bin
+radeon/CEDAR_rlc.bin
+radeon/CEDAR_smc.bin
+radeon/CYPRESS_uvd.bin

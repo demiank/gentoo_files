@@ -1,0 +1,9 @@
+#sys-kernel/gentoo-sources-5.15.4
+dev-libs/jemalloc-5.2.1-r1
+#xfce-base/thunar-4.17.7
+#xfce-extra/thunar-volman-4.16.0
+sys-devel/binutils-2.37_p1-r1
+sys-devel/gcc-11.2.1_p20211127
+#dev-libs/elfutils-0.186
+#sys-libs/binutils-libs-2.37_p1-r1
+sys-devel/gcc-config-2.5-r1
