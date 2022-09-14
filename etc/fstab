@@ -7,6 +7,6 @@ UUID=715ec111-0272-496f-9891-927f39355c89	/var	btrfs	noatime,space_cache,autodef
 UUID=715ec111-0272-496f-9891-927f39355c89	/var/cache	btrfs	noatime,space_cache,autodefrag,subvol=@cache	0	0
 UUID=715ec111-0272-496f-9891-927f39355c89	/home	btrfs	noatime,space_cache,autodefrag,compress=zstd,subvol=@home	0	0
 UUID=715ec111-0272-496f-9891-927f39355c89	/swap	btrfs	subvol=@swap	0	0
-UUID=715ec111-0272-496f-9891-927f39355c89       /.snap    btrfs   noatime,space_cache,autodefrag,compress=zstd,subvol=@snapshots       0       0
+UUID=715ec111-0272-496f-9891-927f39355c89       /.snaps    btrfs   noatime,space_cache,autodefrag,compress=zstd,subvol=@snapshots       0       0
 /swap/swapfile	none	swap	defaults	0	0
 tmpfs		/var/tmp/portage		tmpfs	size=15G,uid=portage,gid=portage,mode=775,nosuid,noatime,nodev	0 0
