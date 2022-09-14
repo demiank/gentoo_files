@@ -1,8 +1,6 @@
-media-sound/pulseaudio -daemon
-#############################
-sys-devel/clang llvm_targets_AArch64 llvm_targets_AMDGPU llvm_targets_ARM llvm_targets_AVR llvm_targets_BPF llvm_targets_Hexagon llvm_targets_Lanai llvm_targets_MSP430 llvm_targets_Mips llvm_targets_NVPTX llvm_targets_PowerPC llvm_targets_RISCV llvm_targets_Sparc llvm_targets_SystemZ llvm_targets_WebAssembly llvm_targets_XCore
+sys-devel/clang -llvm_targets_AArch64 llvm_targets_AMDGPU -llvm_targets_ARM -llvm_targets_AVR -llvm_targets_BPF -llvm_targets_Hexagon -llvm_targets_Lanai -llvm_targets_MSP430 -llvm_targets_Mips -llvm_targets_NVPTX -llvm_targets_PowerPC -llvm_targets_RISCV -llvm_targets_Sparc -llvm_targets_SystemZ -llvm_targets_WebAssembly -llvm_targets_XCore llvm_targets_X86 -llvm_targets_VE
 
-sys-devel/llvm llvm_targets_AArch64 llvm_targets_AMDGPU llvm_targets_ARM llvm_targets_AVR llvm_targets_BPF llvm_targets_Hexagon llvm_targets_Lanai llvm_targets_MSP430 llvm_targets_Mips llvm_targets_NVPTX llvm_targets_PowerPC llvm_targets_RISCV llvm_targets_Sparc llvm_targets_SystemZ llvm_targets_WebAssembly llvm_targets_XCore
-sys-devel/llvm llvm_targets_X86
+sys-devel/llvm -llvm_targets_AArch64 llvm_targets_AMDGPU -llvm_targets_ARM -llvm_targets_AVR -llvm_targets_BPF -llvm_targets_Hexagon -llvm_targets_Lanai -llvm_targets_MSP430 -llvm_targets_Mips -llvm_targets_NVPTX -llvm_targets_PowerPC -llvm_targets_RISCV -llvm_targets_Sparc -llvm_targets_SystemZ -llvm_targets_WebAssembly -llvm_targets_XCore llvm_targets_X86 -llvm_targets_VE
+
 dev-libs/boost -nls
 #sys-devel/clang-runtime -compiler-rt
